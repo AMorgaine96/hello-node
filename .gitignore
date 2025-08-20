@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+
+# environment variables
+.env
+
+# sqlite database
+app.db
+
+# logs
+npm-debug.log*
